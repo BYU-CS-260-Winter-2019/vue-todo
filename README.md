@@ -217,6 +217,7 @@ completed). You should put this in between the `data` and the
         return !item.completed;
       });
     },
+  },
 ```
 
 The computed property is called `activeTodos`. In this computed
